@@ -222,7 +222,7 @@ class = "animated infinite bounce"
 ```
 
 
-![image](https://upload.wikimedia.org/wikipedia/commons/d/d0/Creative-Tail-Animal-lion.svg)<!--
+![image](images/elm.jpg)<!--
 style = "width: 100px;
          border: 10px solid;
          filter: grayscale(100%);"
@@ -258,7 +258,7 @@ elements, such as links, words, symbols, or code...
                                        {{1}}
 ================================================================================
 
-!![movie](https://www.youtube.com/embed/XsNk5aOpqUc)<!--
+!![movie](videos/Penguin.webm)<!--
 style = "width: 100px; height: 60px;"
 -->
 !![movie](https://www.youtube.com/embed/XsNk5aOpqUc)<!--
