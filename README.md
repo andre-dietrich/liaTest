@@ -192,7 +192,7 @@ defined by two exclamation marks.
 
 * Image-notation: `![image](https://upload.wikimedia.org/wikipedia/commons/d/d0/Creative-Tail-Animal-lion.svg)`
 
-  ![image](images/load.gif)
+  ![image](images/elm.jpg)
 
 * Movie-notation: `!![movie](https://www.youtube.com/embed/XsNk5aOpqUc?&autoplay=1)`
 
